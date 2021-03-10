@@ -1,0 +1,14 @@
+# Site settings
+title:
+email: athleteecg@fire.fundersclub.com 
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+researhgate_name: Bjorn_Jostein_Singstad
+github_username: Athlete-ECG
+linkedin_username: bjsingstad
+publons_name: 3270557/bjrn-jostein-singstad
+
+# Build settings
+markdown: kramdown
